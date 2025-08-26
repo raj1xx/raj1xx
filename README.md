@@ -3,7 +3,7 @@
 
 I'm currently focused on machine learning, deep learning, data analysis, and predictive modeling. I enjoy building intelligent systems and exploring how data can be used to solve real-world problems.
 
-- 📫 Reach me at: **rsat338@gmail.com**
+- 📫 Reach me at: **ecchennibala@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
