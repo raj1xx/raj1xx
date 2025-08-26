@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Raj Mohan</h1>
+<h1 align="center">Hi, I'm Elanchetchenni</h1>
 <h3 align="center">Aspiring Software Developer with a Passion for AI and Data Science</h3>
 
 I'm currently focused on machine learning, deep learning, data analysis, and predictive modeling. I enjoy building intelligent systems and exploring how data can be used to solve real-world problems.
